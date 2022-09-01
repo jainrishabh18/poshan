@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350547565736",
+    "project_id": "poshan-79906",
+    "storage_bucket": "poshan-79906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350547565736:android:98c88470eb3f1e4b8fb69d",
+        "android_client_info": {
+          "package_name": "com.midnighterrors.poshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350547565736-onteha79pdg17lt6kqbiptt9r209fpf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwof8vq29LEJUWPB7XqE7Hn0umvPf-8Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350547565736-onteha79pdg17lt6kqbiptt9r209fpf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
